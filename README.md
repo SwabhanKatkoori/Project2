@@ -1,4 +1,6 @@
 *Project 2 grading docs is located within the root directory of the repository
+*Final video is located within the root directory of the repository
+*Code is located with .zip file
 
 ## Project 2
 Created by Swabhan Katkoori and Ryan Hanks
