@@ -1,3 +1,5 @@
+*Project 2 grading docs is located within the root directory of the repository
+
 ## Project 2
 Created by Swabhan Katkoori and Ryan Hanks
 
